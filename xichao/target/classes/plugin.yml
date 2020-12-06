@@ -1,0 +1,4 @@
+name: Xichao
+version: 1.0-SNAPSHOT
+main: xichao.xichao.Xichao
+api-version: 1.13

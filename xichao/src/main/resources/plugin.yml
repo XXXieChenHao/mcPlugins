@@ -1,0 +1,4 @@
+name: Xichao
+version: ${project.version}
+main: xichao.xichao.Xichao
+api-version: 1.13
